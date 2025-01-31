@@ -1,0 +1,16 @@
+.exploreBar{
+    width: 23%;
+    float: left;
+    height: 100%
+}
+.painel{
+    width: 77%;
+    float: right;
+    height: 100%;
+}
+.searchBar{
+    width: 90%  ;
+}
+.s{
+    width: 80%;
+}
