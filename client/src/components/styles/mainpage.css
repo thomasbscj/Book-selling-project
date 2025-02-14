@@ -9,8 +9,27 @@
     height: 100%;
 }
 .searchBar{
-    width: 90%  ;
+    width: 90% ;
 }
 .s{
     width: 80%;
+}
+
+.book-product{
+    width: 25%;
+    background-color:aliceblue;
+    box-shadow: 5px;
+    border-radius: 25px;
+}
+
+.book-product-name{
+    text-indent: 30px;
+}
+
+.book-title{
+
+}
+
+.book-auctor{
+
 }

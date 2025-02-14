@@ -1,14 +1,15 @@
 import MainSearchBar from "./MainSearchBar"
 import './styles/mainpage.css'
+import BookDisplay from "./BookDisplay"
 function Painel(){
     return(
         <>
-        <div class = 'searchBar'>
-            <MainSearchBar></MainSearchBar>
-        </div>
-        <div class = 'producsDisplay'>
-
-        </div>
+            <>
+                <MainSearchBar></MainSearchBar>
+            </>
+            <>
+                <BookDisplay></BookDisplay>
+            </>
         </>
     )
 }

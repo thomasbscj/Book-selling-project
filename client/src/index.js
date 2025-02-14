@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom' 
+const APIROOT = 'http://localhost:8080'
+export default APIROOT
 
 const router = createBrowserRouter([
   {
